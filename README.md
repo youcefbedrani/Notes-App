@@ -18,7 +18,12 @@ This React application is a notes app that allows users to add, delete, and sear
 
 ## Demo
 
-Include a link or gif demonstrating the functionality of your app.
+<p align="center">
+  <img width="200" height="200" src="./images/Dark.png" alt="Your Name">
+</p>
+<p align="center">
+  <img width="200" height="200" src="./images/Ligth.png" alt="Your Name">
+</p>
 
 ## Components
 

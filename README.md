@@ -1,3 +1,57 @@
+# React Notes App
+
+A simple notes app built with React.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo](#demo)
+- [Components](#components)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+This React application is a notes app that allows users to add, delete, and search for notes. It includes dark mode functionality and is built with components such as Header, Footer, Note, AddNote, NotesList, and Search.
+
+## Demo
+
+Include a link or gif demonstrating the functionality of your app.
+
+## Components
+
+### 1. Header
+
+The Header component displays the app title and provides a button to toggle between dark and light modes.
+
+### 2. Footer
+
+The Footer component includes information about the app, such as the creator's name and the app version.
+
+### 3. Note
+
+The Note component represents an individual note, displaying its text, date, and a delete button.
+
+### 4. AddNote
+
+The AddNote component allows users to add new notes. It includes a character limit and a "Save" button.
+
+### 5. NotesList
+
+The NotesList component renders a list of notes and the AddNote component. It also handles note deletion.
+
+### 6. Search
+
+The Search component provides a search bar for users to filter notes based on their text.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/react-notes-app.git
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
